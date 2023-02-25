@@ -1,1 +1,3 @@
-# curso_2023-1
+# Curso procesos estocasticos
+
+## Clases
